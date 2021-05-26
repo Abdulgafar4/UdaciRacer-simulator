@@ -128,7 +128,7 @@ function runRace(raceID) {
 			} catch (error) {
 				console.log("Problem with handling getRace: ", error)
 			}
-		}, 300)
+		}, 500)
 	})
 }
 
